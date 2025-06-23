@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/destroyable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "out/init.lua",
   "scripts": {
     "build": "rbxtsc",
@@ -31,6 +31,6 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "@rbxts/trash": "^1.0.1"
+    "@rbxts/trash": "^1.0.2"
   }
 }
